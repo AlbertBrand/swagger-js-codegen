@@ -30,7 +30,8 @@
   ],
   "homepage": "https://github.com/wcandillon/swagger-js-codegen",
   "dependencies": {
-    "js-beautify": "~1.5.1",
+    "esformatter": "^0.9.3",
+    "esformatter-flow": "^1.0.1",
     "jshint": "~2.5.1",
     "lodash": "^2.4.1",
     "mustache": "^2.0.0"
